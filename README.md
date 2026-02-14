@@ -16,7 +16,7 @@ Después de clase se adaptó el modelo al dominio real del cliente:
 - Diagrama de contexto con POS como núcleo e integración con inventario y pagos.
 
 ## Herramientas
-- draw.io (o Lucidchart)
+- Lucidchart
 - Notación ERD (crow’s foot) y diagrama de contexto
 
 ## Contenido del repositorio
